@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: Akiatorimon
+  m_EditorClassIdentifier: 
+  digimonID: 16
+  digimonName: Akiatorimon
+  description: "Un Digimon ave guerrero con armadura. Es un maestro del combate a é—reo."
+  stage: 3
+  element: 3
+  baseHP: 76
+  baseMP: 36
+  baseAttack: 84
+  baseDefense: 68
+  baseSpeed: 72
+  hpGrowthRate: 2.1
+  mpGrowthRate: 1.15
+  attackGrowthRate: 1.15
+  defenseGrowthRate: 1.1
+  speedGrowthRate: 1.1
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 11400000, guid: Biyomon}
+  height: 2.2
+  weight: 90
+  family: Bird
+  firstAppearanceYear: 1998

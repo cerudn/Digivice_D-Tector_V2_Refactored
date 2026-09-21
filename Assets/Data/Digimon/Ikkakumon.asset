@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: Ikkakumon
+  m_EditorClassIdentifier: 
+  digimonID: 14
+  digimonName: Ikkakumon
+  description: "Un Digimon morsa gigante con un cuerno de metal. Domina las aguas fr í—as."
+  stage: 3
+  element: 2
+  baseHP: 85
+  baseMP: 32
+  baseAttack: 82
+  baseDefense: 75
+  baseSpeed: 55
+  hpGrowthRate: 2.3
+  mpGrowthRate: 1.1
+  attackGrowthRate: 1.1
+  defenseGrowthRate: 1.2
+  speedGrowthRate: 0.95
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 11400000, guid: Gomamon}
+  height: 3.5
+  weight: 320
+  family: Aquatic
+  firstAppearanceYear: 1998

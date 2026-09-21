@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: Angemon
+  m_EditorClassIdentifier: 
+  digimonID: 12
+  digimonName: Angemon
+  description: "Un Digimon á—ngel con seis alas sagradas. Usa poderes divinos para combatir el mal."
+  stage: 3
+  element: 6
+  baseHP: 70
+  baseMP: 50
+  baseAttack: 75
+  baseDefense: 60
+  baseSpeed: 75
+  hpGrowthRate: 2
+  mpGrowthRate: 1.4
+  attackGrowthRate: 1.1
+  defenseGrowthRate: 1.05
+  speedGrowthRate: 1.15
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 11400000, guid: Patamon}
+  height: 2.8
+  weight: 60
+  family: Holy
+  firstAppearanceYear: 1998
