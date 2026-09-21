@@ -1,0 +1,325 @@
+[
+	{
+		"number": 0,
+		"multiMap": true,
+		"worldSprite": "frontier_initial",
+		"shuffle": false,
+		"areas": [
+			{
+				"number": 0,
+				"map": 0,
+				"distance": 6000,
+				"coords": {
+					"x": 18,
+					"y": 21
+				}
+			},
+			{
+				"number": 1,
+				"map": 0,
+				"distance": 8000,
+				"coords": {
+					"x": 6,
+					"y": 27
+				}
+			},
+			{
+				"number": 2,
+				"map": 0,
+				"distance": 7000,
+				"coords": {
+					"x": 26,
+					"y": 27
+				}
+			},
+			{
+				"number": 3,
+				"map": 1,
+				"distance": 9000,
+				"coords": {
+					"x": 14,
+					"y": 7
+				}
+			},
+			{
+				"number": 4,
+				"map": 1,
+				"distance": 10000,
+				"coords": {
+					"x": 28,
+					"y": 9
+				}
+			},
+			{
+				"number": 5,
+				"map": 1,
+				"distance": 11000,
+				"coords": {
+					"x": 26,
+					"y": 19
+				}
+			},
+			{
+				"number": 6,
+				"map": 2,
+				"distance": 9000,
+				"coords": {
+					"x": 3,
+					"y": 13
+				}
+			},
+			{
+				"number": 7,
+				"map": 2,
+				"distance": 7000,
+				"coords": {
+					"x": 9,
+					"y": 3
+				}
+			},
+			{
+				"number": 8,
+				"map": 2,
+				"distance": 10000,
+				"coords": {
+					"x": 21,
+					"y": 10
+				}
+			},
+			{
+				"number": 9,
+				"map": 3,
+				"distance": 11000,
+				"coords": {
+					"x": 25,
+					"y": 27
+				}
+			},
+			{
+				"number": 10,
+				"map": 3,
+				"distance": 10000,
+				"coords": {
+					"x": 6,
+					"y": 24
+				}
+			},
+			{
+				"number": 11,
+				"map": 3,
+				"distance": 10000,
+				"coords": {
+					"x": 13,
+					"y": 18
+				}
+			}
+		],
+		"bosses": [
+			"grumblemon",
+			"azulongmon",
+			"arbormon",
+			"mercurymon",
+			"lanamon",
+			"zhuqiaomon",
+			"petaldramon",
+			"calmaramon",
+			"baihumon",
+			"ebonwumon",
+			"gigasmon",
+			"sephirothmon"
+		],
+		"removePlayer": true
+	},
+	{
+		"number": 1,
+		"multiMap": false,
+		"worldSprite": "frontier_duskmon",
+		"bossMode": "Evolve",
+		"lockTravel": true,
+		"showEyes": true,
+		"areas": [
+			{
+				"number": 0,
+				"map": 0,
+				"distance": 12000,
+				"coords": {
+					"x": 12,
+					"y": 18
+				}
+			},
+			{
+				"number": 1,
+				"map": 0,
+				"distance": 50,
+				"coords": {
+					"x": 12,
+					"y": 18
+				}
+			}
+		],
+		"bosses": [
+			"duskmon",
+			"ancientsphinxmon"
+		]
+	},
+	{
+		"number": 2,
+		"multiMap": true,
+		"worldSprite": "frontier_initial",
+		"areas": [
+			{
+				"number": 0,
+				"map": 0,
+				"distance": 6000,
+				"coords": {
+					"x": 18,
+					"y": 21
+				}
+			},
+			{
+				"number": 1,
+				"map": 0,
+				"distance": 8000,
+				"coords": {
+					"x": 6,
+					"y": 27
+				}
+			},
+			{
+				"number": 2,
+				"map": 0,
+				"distance": 7000,
+				"coords": {
+					"x": 26,
+					"y": 27
+				}
+			},
+			{
+				"number": 3,
+				"map": 1,
+				"distance": 9000,
+				"coords": {
+					"x": 14,
+					"y": 7
+				}
+			},
+			{
+				"number": 4,
+				"map": 1,
+				"distance": 10000,
+				"coords": {
+					"x": 28,
+					"y": 9
+				}
+			},
+			{
+				"number": 5,
+				"map": 1,
+				"distance": 11000,
+				"coords": {
+					"x": 26,
+					"y": 19
+				}
+			},
+			{
+				"number": 6,
+				"map": 2,
+				"distance": 9000,
+				"coords": {
+					"x": 3,
+					"y": 13
+				}
+			},
+			{
+				"number": 7,
+				"map": 2,
+				"distance": 7000,
+				"coords": {
+					"x": 9,
+					"y": 3
+				}
+			},
+			{
+				"number": 8,
+				"map": 2,
+				"distance": 10000,
+				"coords": {
+					"x": 21,
+					"y": 10
+				}
+			},
+			{
+				"number": 9,
+				"map": 3,
+				"distance": 11000,
+				"coords": {
+					"x": 25,
+					"y": 27
+				}
+			},
+			{
+				"number": 10,
+				"map": 3,
+				"distance": 10000,
+				"coords": {
+					"x": 6,
+					"y": 24
+				}
+			},
+			{
+				"number": 11,
+				"map": 3,
+				"distance": 10000,
+				"coords": {
+					"x": 13,
+					"y": 18
+				}
+			}
+		],
+		"bosses": [
+			"grumblemon",
+			"azulongmon",
+			"arbormon",
+			"mercurymon",
+			"lanamon",
+			"zhuqiaomon",
+			"petaldramon",
+			"calmaramon",
+			"baihumon",
+			"ebonwumon",
+			"gigasmon",
+			"sephirothmon"
+		]
+	},
+	{
+		"number": 3,
+		"multiMap": false,
+		"worldSprite": "frontier_duskmon",
+		"bossMode": "Evolve",
+		"lockTravel": true,
+		"showEyes": true,
+		"areas": [
+			{
+				"number": 0,
+				"map": 0,
+				"distance": 12000,
+				"coords": {
+					"x": 12,
+					"y": 18
+				}
+			},
+			{
+				"number": 1,
+				"map": 0,
+				"distance": 50,
+				"coords": {
+					"x": 12,
+					"y": 18
+				}
+			}
+		],
+		"bosses": [
+			"kerpymon (evil)",
+			"lucemon"
+		]
+	}]
