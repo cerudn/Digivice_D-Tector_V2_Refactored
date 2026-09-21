@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: Terriermon
+  m_EditorClassIdentifier: 
+  digimonID: 82
+  digimonName: Terriermon
+  description: "Un pequeño Digimon conejo con grandes orejas. Es el partner de Henry."
+  stage: 2
+  element: 3
+  baseHP: 42
+  baseMP: 28
+  baseAttack: 52
+  baseDefense: 40
+  baseSpeed: 60
+  hpGrowthRate: 1.9
+  mpGrowthRate: 1.1
+  attackGrowthRate: 0.98
+  defenseGrowthRate: 0.98
+  speedGrowthRate: 1.08
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 0}
+  height: 0.5
+  weight: 8
+  family: Beast
+  firstAppearanceYear: 2001

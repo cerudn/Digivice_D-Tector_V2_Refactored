@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: Poyomon
+  m_EditorClassIdentifier: 
+  digimonID: 91
+  digimonName: Poyomon
+  description: "Un Digimon slime transparente. Es una forma b á—sica de vida digital."
+  stage: 1
+  element: 2
+  baseHP: 35
+  baseMP: 15
+  baseAttack: 35
+  baseDefense: 30
+  baseSpeed: 40
+  hpGrowthRate: 1.7
+  mpGrowthRate: 0.85
+  attackGrowthRate: 0.85
+  defenseGrowthRate: 0.82
+  speedGrowthRate: 0.88
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 0}
+  height: 0.3
+  weight: 3
+  family: Slime
+  firstAppearanceYear: 1997

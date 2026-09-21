@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: Tsumemon
+  m_EditorClassIdentifier: 
+  digimonID: 95
+  digimonName: Tsumemon
+  description: "Un Digimon murci é—lago oscuro. Es una forma Child maligna."
+  stage: 2
+  element: 7
+  baseHP: 46
+  baseMP: 24
+  baseAttack: 58
+  baseDefense: 38
+  baseSpeed: 54
+  hpGrowthRate: 1.95
+  mpGrowthRate: 1.05
+  attackGrowthRate: 1.05
+  defenseGrowthRate: 0.92
+  speedGrowthRate: 1
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 0}
+  height: 0.8
+  weight: 12
+  family: Dark
+  firstAppearanceYear: 2001
