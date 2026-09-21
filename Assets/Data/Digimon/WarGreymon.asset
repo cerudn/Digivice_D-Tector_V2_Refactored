@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: WarGreymon
+  m_EditorClassIdentifier: 
+  digimonID: 30
+  digimonName: WarGreymon
+  description: "El Digimon drag ón supremo con la armadura Dramon Killer. Es la evolucó·´·n final de Agumon."
+  stage: 5
+  element: 1
+  baseHP: 140
+  baseMP: 60
+  baseAttack: 150
+  baseDefense: 120
+  baseSpeed: 100
+  hpGrowthRate: 2.6
+  mpGrowthRate: 1.3
+  attackGrowthRate: 1.4
+  defenseGrowthRate: 1.35
+  speedGrowthRate: 1.15
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 11400000, guid: MetalGreymon}
+  height: 9
+  weight: 500
+  family: Dragon
+  firstAppearanceYear: 1997
