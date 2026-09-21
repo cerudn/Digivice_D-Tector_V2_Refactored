@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: AncientMermaimon
+  m_EditorClassIdentifier: 
+  digimonID: 116
+  digimonName: AncientMermaimon
+  description: "El Ancient Digimon del Agua. Una sirena con poder oce á—nico."
+  stage: 5
+  element: 2
+  baseHP: 142
+  baseMP: 92
+  baseAttack: 138
+  baseDefense: 122
+  baseSpeed: 118
+  hpGrowthRate: 2.6
+  mpGrowthRate: 1.7
+  attackGrowthRate: 1.38
+  defenseGrowthRate: 1.35
+  speedGrowthRate: 1.38
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 0}
+  height: 5
+  weight: 380
+  family: Ancient
+  firstAppearanceYear: 2002

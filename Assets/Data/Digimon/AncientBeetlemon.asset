@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: AncientBeetlemon
+  m_EditorClassIdentifier: 
+  digimonID: 114
+  digimonName: AncientBeetlemon
+  description: "El Ancient Digimon del Trueno. Un escarabajo con poder el é—ctrico absoluto."
+  stage: 5
+  element: 5
+  baseHP: 138
+  baseMP: 85
+  baseAttack: 155
+  baseDefense: 118
+  baseSpeed: 115
+  hpGrowthRate: 2.58
+  mpGrowthRate: 1.62
+  attackGrowthRate: 1.48
+  defenseGrowthRate: 1.32
+  speedGrowthRate: 1.35
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 0}
+  height: 5
+  weight: 480
+  family: Ancient
+  firstAppearanceYear: 2002

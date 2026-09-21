@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: AncientWisemon
+  m_EditorClassIdentifier: 
+  digimonID: 119
+  digimonName: AncientWisemon
+  description: "El Ancient Digimon del Hielo. Un sabio con conocimiento infinito."
+  stage: 5
+  element: 2
+  baseHP: 128
+  baseMP: 105
+  baseAttack: 135
+  baseDefense: 118
+  baseSpeed: 128
+  hpGrowthRate: 2.48
+  mpGrowthRate: 1.85
+  attackGrowthRate: 1.35
+  defenseGrowthRate: 1.32
+  speedGrowthRate: 1.45
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 0}
+  height: 5.5
+  weight: 380
+  family: Ancient
+  firstAppearanceYear: 2002

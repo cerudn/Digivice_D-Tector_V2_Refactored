@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: Susanoomon
+  m_EditorClassIdentifier: 
+  digimonID: 120
+  digimonName: Susanoomon
+  description: "La DNA Digievolucó·´·n de todos los Ancient Digimon. El guerrero legendario supremo."
+  stage: 5
+  element: 6
+  baseHP: 170
+  baseMP: 110
+  baseAttack: 175
+  baseDefense: 145
+  baseSpeed: 135
+  hpGrowthRate: 2.88
+  mpGrowthRate: 1.92
+  attackGrowthRate: 1.58
+  defenseGrowthRate: 1.52
+  speedGrowthRate: 1.52
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 0}
+  height: 12
+  weight: 950
+  family: Ancient
+  firstAppearanceYear: 2002

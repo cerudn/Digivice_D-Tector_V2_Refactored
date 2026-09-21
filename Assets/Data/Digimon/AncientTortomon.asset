@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: AncientTortomon
+  m_EditorClassIdentifier: 
+  digimonID: 113
+  digimonName: AncientTortomon
+  description: "El Ancient Digimon de la Tierra. Un gigante con defensa impenetrable."
+  stage: 5
+  element: 4
+  baseHP: 165
+  baseMP: 70
+  baseAttack: 135
+  baseDefense: 155
+  baseSpeed: 85
+  hpGrowthRate: 2.85
+  mpGrowthRate: 1.45
+  attackGrowthRate: 1.38
+  defenseGrowthRate: 1.65
+  speedGrowthRate: 1.05
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 0}
+  height: 8
+  weight: 850
+  family: Ancient
+  firstAppearanceYear: 2002
