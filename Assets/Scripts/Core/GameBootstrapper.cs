@@ -29,7 +29,7 @@ public class GameBootstrapper
         var logicManager = GetOrAddComponent<LogicManager>(managersGO);
         var screenManager = GetOrAddComponent<ScreenManager>(managersGO);
         var audioManager = GetOrAddComponent<AudioManager>(managersGO);
-        var worldManager = GetOrAddComponent<WorldManager>(managersGO);
+        var worldManager = GetOrAddComponent<UnityEngine.XR.WSA.WorldManager>(managersGO);
         var gameManager = GetOrAddComponent<GameManager>(managersGO);
         
         Debug.Log("[GameBootstrapper] All managers added");
@@ -142,7 +142,7 @@ public class GameBootstrapper
         SavedGame savedGame,
         AudioManager audioManager,
         InputManager inputManager,
-        WorldManager worldManager,
+        UnityEngine.XR.WSA.WorldManager worldManager,
         DatabaseSO databaseSO)
     {
         // GameManager ya tiene las referencias asignadas por InitializeManually
