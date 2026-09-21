@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: Gomamon
+  m_EditorClassIdentifier: 
+  digimonID: 5
+  digimonName: Gomamon
+  description: "Un Digimon foca con pelaje blanco y rayas rojas. Le encanta el agua y es muy juguet ón."
+  stage: 2
+  element: 2
+  baseHP: 48
+  baseMP: 22
+  baseAttack: 52
+  baseDefense: 42
+  baseSpeed: 56
+  hpGrowthRate: 2
+  mpGrowthRate: 1
+  attackGrowthRate: 0.95
+  defenseGrowthRate: 1
+  speedGrowthRate: 1.05
+  learnableAttacks:
+  - level: 1
+    attack: {fileID: 0}
+  - level: 5
+    attack: {fileID: 0}
+  - level: 10
+    attack: {fileID: 0}
+  startingAttacks: []
+  possibleEvolutions:
+  - targetDigimon: {fileID: 0}
+    minLevel: 11
+    minFriendship: 50
+    requiredItemIDs: []
+    consumeItems: 1
+    specialCondition: 0
+    conditionValue: 0
+    conditionDescription: ""
+    successRate: 1
+    evolutionMethod: 0
+  preEvolution: {fileID: 0}
+  height: 0.6
+  weight: 12
+  family: Aquatic
+  firstAppearanceYear: 1998
