@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: Beelzemon
+  m_EditorClassIdentifier: 
+  digimonID: 103
+  digimonName: Beelzemon
+  description: "El Digimon demonio de la gula con escopetas. Forma Mega de Impmon."
+  stage: 5
+  element: 7
+  baseHP: 132
+  baseMP: 78
+  baseAttack: 152
+  baseDefense: 102
+  baseSpeed: 122
+  hpGrowthRate: 2.52
+  mpGrowthRate: 1.55
+  attackGrowthRate: 1.45
+  defenseGrowthRate: 1.22
+  speedGrowthRate: 1.42
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 0}
+  height: 4
+  weight: 200
+  family: Dark
+  firstAppearanceYear: 2001
