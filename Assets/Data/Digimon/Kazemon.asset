@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: Kazemon
+  m_EditorClassIdentifier: 
+  digimonID: 42
+  digimonName: Kazemon
+  description: "Spirit Human del Viento. Una hada guerrera con vientos cortantes."
+  stage: 6
+  element: 3
+  baseHP: 95
+  baseMP: 70
+  baseAttack: 100
+  baseDefense: 85
+  baseSpeed: 120
+  hpGrowthRate: 2.2
+  mpGrowthRate: 1.5
+  attackGrowthRate: 1.15
+  defenseGrowthRate: 1.1
+  speedGrowthRate: 1.4
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 0}
+  height: 2.5
+  weight: 70
+  family: Warrior
+  firstAppearanceYear: 2002

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: Beowolfmon
+  m_EditorClassIdentifier: 
+  digimonID: 41
+  digimonName: Beowolfmon
+  description: "Spirit Human de la Luz. Un caballero sagrado con espada de hielo."
+  stage: 6
+  element: 6
+  baseHP: 105
+  baseMP: 65
+  baseAttack: 120
+  baseDefense: 100
+  baseSpeed: 100
+  hpGrowthRate: 2.35
+  mpGrowthRate: 1.45
+  attackGrowthRate: 1.28
+  defenseGrowthRate: 1.22
+  speedGrowthRate: 1.25
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 0}
+  height: 3
+  weight: 150
+  family: Warrior
+  firstAppearanceYear: 2002

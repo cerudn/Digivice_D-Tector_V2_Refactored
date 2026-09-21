@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: Korikakumon
+  m_EditorClassIdentifier: 
+  digimonID: 43
+  digimonName: Korikakumon
+  description: "Spirit Human del Hielo. Un yeti guerrero con poder criog é—nico."
+  stage: 6
+  element: 2
+  baseHP: 120
+  baseMP: 50
+  baseAttack: 110
+  baseDefense: 105
+  baseSpeed: 85
+  hpGrowthRate: 2.5
+  mpGrowthRate: 1.25
+  attackGrowthRate: 1.22
+  defenseGrowthRate: 1.28
+  speedGrowthRate: 1.05
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 0}
+  height: 3.2
+  weight: 250
+  family: Warrior
+  firstAppearanceYear: 2002
