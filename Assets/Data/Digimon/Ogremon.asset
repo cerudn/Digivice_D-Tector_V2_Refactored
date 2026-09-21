@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: Ogremon
+  m_EditorClassIdentifier: 
+  digimonID: 61
+  digimonName: Ogremon
+  description: "Un Digimon ogro salvaje con un garrote de hierro. Es rudo pero tiene honor."
+  stage: 3
+  element: 4
+  baseHP: 78
+  baseMP: 32
+  baseAttack: 88
+  baseDefense: 68
+  baseSpeed: 64
+  hpGrowthRate: 2.15
+  mpGrowthRate: 1.1
+  attackGrowthRate: 1.2
+  defenseGrowthRate: 1.08
+  speedGrowthRate: 1.02
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 0}
+  height: 3
+  weight: 200
+  family: Beast
+  firstAppearanceYear: 1997

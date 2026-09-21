@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: Myotismon
+  m_EditorClassIdentifier: 
+  digimonID: 67
+  digimonName: Myotismon
+  description: "Un Digimon vampiro con capa oscura. Comanda las fuerzas de la noche."
+  stage: 4
+  element: 7
+  baseHP: 112
+  baseMP: 58
+  baseAttack: 118
+  baseDefense: 96
+  baseSpeed: 86
+  hpGrowthRate: 2.4
+  mpGrowthRate: 1.38
+  attackGrowthRate: 1.3
+  defenseGrowthRate: 1.22
+  speedGrowthRate: 1.15
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 0}
+  height: 3.5
+  weight: 220
+  family: Dark
+  firstAppearanceYear: 1997

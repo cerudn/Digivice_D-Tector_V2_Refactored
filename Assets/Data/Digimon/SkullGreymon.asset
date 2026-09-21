@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: SkullGreymon
+  m_EditorClassIdentifier: 
+  digimonID: 64
+  digimonName: SkullGreymon
+  description: "Un Digimon drag ó—n esqueleto. Es una evolucó·´·n oscura de Greymon."
+  stage: 4
+  element: 7
+  baseHP: 115
+  baseMP: 42
+  baseAttack: 125
+  baseDefense: 95
+  baseSpeed: 72
+  hpGrowthRate: 2.42
+  mpGrowthRate: 1.18
+  attackGrowthRate: 1.35
+  defenseGrowthRate: 1.2
+  speedGrowthRate: 1.05
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 11400000, guid: Greymon}
+  height: 9
+  weight: 420
+  family: Undead
+  firstAppearanceYear: 1997

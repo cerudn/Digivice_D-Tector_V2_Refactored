@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: DigimonData, type: 3}
+  m_Name: Leomon
+  m_EditorClassIdentifier: 
+  digimonID: 60
+  digimonName: Leomon
+  description: "Un Digimon le ó—n guerrero con espada. Es el rey de las bestias y protege a los débiles."
+  stage: 3
+  element: 6
+  baseHP: 82
+  baseMP: 38
+  baseAttack: 92
+  baseDefense: 72
+  baseSpeed: 68
+  hpGrowthRate: 2.2
+  mpGrowthRate: 1.15
+  attackGrowthRate: 1.22
+  defenseGrowthRate: 1.12
+  speedGrowthRate: 1.05
+  learnableAttacks: []
+  startingAttacks: []
+  possibleEvolutions: []
+  preEvolution: {fileID: 0}
+  height: 2.5
+  weight: 160
+  family: Beast
+  firstAppearanceYear: 1997
